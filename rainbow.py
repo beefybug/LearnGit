@@ -1,1 +1,1 @@
-print("Rainbow")
+print("Crazy!")
